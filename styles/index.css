@@ -1,46 +1,9 @@
-html {
-    background-color: #ffdad6;
-}
-h1 {
-    font-size: 50px;
+body.index {
     text-align: center;
-}
-body {
-    text-align: center;
-}
-nav {
-    width: 100%;
-    height: 60px;
-    background-color: #b3cfff;
-    padding-top: 5px;
-    box-sizing: border-box;
-    text-align: center;
-}
-ul {
-    display: flex;
-}
-li{
-    list-style: none;
-}
-a {
-    display: block;
-    text-decoration: none;
-    color: dimgray;
-    margin-right: 50px;
-    font-weight: bold;
 }
 img {
     display: block;
     margin: 0 auto;
-    width: 40%;
-    height: 40%;
-}
-div.main {
-    font-size: 25px;
-    color: black;
-    background-color: #ffc2cb;
-}
-div.kuma {
-    font-size: 25px;
-    color:black;
+    width: 35%;
+    height: 35%;
 }
