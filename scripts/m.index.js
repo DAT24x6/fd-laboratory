@@ -26,5 +26,5 @@ function minecraft(){
 }
 
 function jump_index(){
-    window.open("index.html")
+    location.href="index.html"
 }
