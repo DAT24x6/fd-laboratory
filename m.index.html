@@ -18,16 +18,22 @@
         <script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"></script>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css"/>
 
+        <!--Vue.js読み込み-->
+        <script src="https://unpkg.com/vue@next"></script>
+
     </head>
     <body class="index">
 
-        <ion-app>
-            <ion-header>
-              <ion-toolbar>
-                <ion-title>FD Laboratory（仮称）</ion-title>
-              </ion-toolbar>
-            </ion-header>
-          </ion-app>
+        <ons-page>
+            <ons-toolbar>
+                <div class="left">
+                    <ons-toolbar-button icon="ion-ios-memu"></ons-toolbar-button>
+                </div>
+            </ons-toolbar>
+
+        </ons-page>
+    </template>
 
     </body>
+</html>
 

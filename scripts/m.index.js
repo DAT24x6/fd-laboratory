@@ -28,3 +28,4 @@ function minecraft(){
 function jump_index(){
     location.href="index.html"
 }
+
