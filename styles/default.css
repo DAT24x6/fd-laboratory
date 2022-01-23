@@ -1,5 +1,5 @@
 html {
-    font-family: sans-serif;
+    font-family: 'Mochiy Pop One', sans-serif;
     background-color: #ffdad6;
 }
 h1 {
@@ -61,6 +61,7 @@ div.function {
     font-size: 100%;/* 125% = 20px */
 }
 div.main {
+    text-align: center;
     font-size: 100%;/* 16px */
     color: black;
     background-color: #ffc2cb;
