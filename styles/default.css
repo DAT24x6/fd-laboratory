@@ -66,3 +66,6 @@ div.main {
     color: black;
     background-color: #ffc2cb;
 }
+div.timeStamp {
+    text-align: right;
+}
